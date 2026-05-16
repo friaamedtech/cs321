@@ -2,7 +2,7 @@
 
 A modern two-sided vehicle rental marketplace connecting companies and customers through an interactive map experience. Built with Vuetify 3.
 
-**Live demo:** [smart-vehicle-rental-system.vercel.app](http://localhost:5173/vehicles/1)
+**Live demo:** [smart-vehicle-rental-system.vercel.app](cs321-jb6c-dkgkv1kpm-yassinefriaa-s-projects6.vercel.app)
 
 ---
 
