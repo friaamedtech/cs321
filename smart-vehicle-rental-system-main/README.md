@@ -66,9 +66,6 @@ On top of the core rental system, we integrated **three AI features** that cover
 
 ---
 
-### 4. 📈 Admin AI Feedback Dashboard
-**Located on:** Admin → Statistics  
-**What it does:** Admin can see aggregated statistics on AI answer ratings — satisfaction rate, thumbs up/down counts, most queried vehicles, and a full ratings table.
 
 ---
 
